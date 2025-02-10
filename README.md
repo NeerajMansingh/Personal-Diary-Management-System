@@ -1,5 +1,4 @@
 # Personal-Diary-Management-System
-This is our ICS major group project implemented entirely in C .
 
 Welcome to your personal operating system! This software implemented in the C programming
  language provides users with a secure and organized platform to manage personal diaries and
